@@ -1,4 +1,6 @@
-![MasterHead](https://github.com/Unik69420/Unik69420/blob/main/mario%20banner%20for%20github%20profile%20readme.gif?raw=true)
+<img align="center" alt="mario" src="./assets/mario.gif">
+
+<br/>
 
 <h1 align="center">Hi, I'm Victor Moni 👋</h1>
 
@@ -10,10 +12,7 @@
 
 <div align=center>
 
-<img align="center"
-     alt="coding"
-     width="300"
-     src="./assets/developer.gif">
+<img align="center" alt="developer" width="300" src="./assets/developer.gif">
 
 <img src="https://komarev.com/ghpvc/?username=victormoni&color=blue&style=flat-square" alt="Profile Views" width="150" height="40"/>
 
