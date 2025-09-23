@@ -1,4 +1,4 @@
-![Hero](./assets/mario.gif)
+![MasterHead](https://github.com/Unik69420/Unik69420/blob/main/mario%20banner%20for%20github%20profile%20readme.gif?raw=true)
 
 <h1 align="center">Hi, I'm Victor Moni 👋</h1>
 
@@ -12,7 +12,7 @@
 
 <div align="center">
 
-![Developer](./assets/developer.gif)
+![Developer](https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif?raw=true)
 
 </div>
 
