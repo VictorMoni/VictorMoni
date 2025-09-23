@@ -12,7 +12,7 @@
 
 <div align="center">
 
-  <img src="./assets/developer.gif.gif" alt="Developer" width="300" >
+  <img src="./assets/developer.gif" alt="Developer" width="300" >
 
 </div>
 
