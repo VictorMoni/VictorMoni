@@ -12,7 +12,7 @@
 
 <div align="center">
 
-  <img src="./assets/developer.gif" alt="developer" width="300" >
+![Developer](./assets/developer.gif)
 
 </div>
 
