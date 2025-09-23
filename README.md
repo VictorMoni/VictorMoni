@@ -1,7 +1,5 @@
 <img align="center" alt="mario" src="./assets/mario.gif">
 
-<br/>
-
 <h1 align="center">Hi, I'm Victor Moni 👋</h1>
 
 <h3 align="center">Full Stack Developer | Problem Solver | Lifelong Learner</h3>
