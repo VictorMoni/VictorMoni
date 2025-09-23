@@ -12,13 +12,13 @@
 
 <div align="center">
 
-![Developer](./assets/developer.gif)
+  <img src="https://komarev.com/ghpvc/?username=victormoni&color=blue&style=flat-square" alt="Profile Views" width="150" height="40"/>
 
 </div>
 
 <div align="center">
 
-  <img src="https://komarev.com/ghpvc/?username=victormoni&color=blue&style=flat-square" alt="Profile Views" width="150" height="40"/>
+![Developer](./assets/developer.gif)
 
 </div>
 
