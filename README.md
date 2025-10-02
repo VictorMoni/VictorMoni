@@ -61,6 +61,14 @@ Beyond coding, I see myself as a **problem solver, innovator, and lifelong learn
 
   </div>
 
+## 📖 Daily.dev Card
+
+<div align="center">
+
+  <a href="https://app.daily.dev/victormoni"><img src="https://api.daily.dev/devcards/v2/sIZQvrf20yqY9CA4XcUjD.png?type=wide&r=0cn" width="652" alt="Victor Moni's Dev Card"/></a>
+
+</div>
+
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -75,14 +83,6 @@ Beyond coding, I see myself as a **problem solver, innovator, and lifelong learn
     <source media="(max-width: 1024px)" srcset="https://github-profile-trophy.vercel.app?username=victormoni&theme=onedark&no-frame=true&row=2&column=4" />
     <img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app?username=victormoni&theme=onedark&no-frame=true&row=1&column=8" width="100%" />
   </picture>
-
-## 📖 Daily.dev Card
-
-<div align="center">
-
-  <a href="https://app.daily.dev/victormoni"><img src="https://api.daily.dev/devcards/v2/sIZQvrf20yqY9CA4XcUjD.png?type=wide&r=0cn" width="652" alt="Victor Moni's Dev Card"/></a>
-
-</div>
 
 ## ⚙️ Desktop Specifications
 
