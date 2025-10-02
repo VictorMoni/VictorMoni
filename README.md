@@ -69,8 +69,6 @@ Beyond coding, I see myself as a **problem solver, innovator, and lifelong learn
 
 </div>
 
-
-
 ## 🏆 GitHub Trophies
 
   <picture>
@@ -83,6 +81,14 @@ Beyond coding, I see myself as a **problem solver, innovator, and lifelong learn
 <div align="center">
 
   <img src="./assets/card.svg" />
+
+</div>
+
+## 📖 Daily.dev Card
+
+<div align="center">
+
+  <a href="https://app.daily.dev/victormoni"><img src="https://api.daily.dev/devcards/v2/sIZQvrf20yqY9CA4XcUjD.png?type=wide&r=0cn" width="652" alt="Victor Moni's Dev Card"/></a>
 
 </div>
 
