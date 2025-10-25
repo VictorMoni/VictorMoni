@@ -1,4 +1,4 @@
-<img src="./assets/mario.gif?raw=true" alt="Mario Banner" />
+![Mario Banner](https://github.com/Unik69420/Unik69420/blob/main/mario%20banner%20for%20github%20profile%20readme.gif?raw=true)
 
 <h1 align="center">Hi, I'm Victor Moni 👋</h1>
 
@@ -12,7 +12,7 @@
 
 <div align="center">
 
-  <img src="./assets/developer.gif" alt="Developer" width="300" >
+  <img src="https://i.pinimg.com/originals/e8/f4/53/e8f453469a3ec97ecd354df465d73913.gif" alt="Developer" width="300">
 
 </div>
 
