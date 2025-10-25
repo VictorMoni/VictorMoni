@@ -73,7 +73,7 @@ Beyond coding, I see myself as a **problem solver, innovator, and lifelong learn
 
 </div>
 
-## 📊 Top Languages
+## 💡 Top Languages
 
 <div align="center" style="display: flex; justify-content: center; gap: 10px;">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=victormoni&theme=dark" width="35%" alt="Top Languages by Repositories"/>
