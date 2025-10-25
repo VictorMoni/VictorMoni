@@ -1,4 +1,4 @@
-<img src="./assets/mario.gif?raw=true" alt="Mario Banner" />
+![Mario Banner](https://github.com/Unik69420/Unik69420/blob/main/mario%20banner%20for%20github%20profile%20readme.gif?raw=true)
 
 <h1 align="center">Hi, I'm Victor Moni 👋</h1>
 
