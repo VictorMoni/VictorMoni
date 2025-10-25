@@ -43,17 +43,17 @@ Beyond coding, I see myself as a **problem solver, innovator, and lifelong learn
 
 ## 🎯 2025/2026 Goals
 
--  Grow my open-source portfolio
--  Achieve **Cloud certifications**
--  Publish **technical articles** and share insights on GitHub & LinkedIn
--  Mentor and collaborate with the dev community
--  Contribute to **enterprise-level microservices projects**
+- Grow my open-source portfolio
+- Achieve **Cloud certifications**
+- Publish **technical articles** and share insights on GitHub & LinkedIn
+- Mentor and collaborate with the dev community
+- Contribute to **enterprise-level microservices projects**
 
 ## 💻 Tech Stack
 
   <div align="center">
 
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,tailwind,sass,typescript,react,next,angular,vite,spring,cs,dotnet,git,githubactions,jenkins,vscode,idea,visualstudio,postman,docker,kubernetes,mysql,postgres,mongodb,figma,linux,ubuntu,kafka" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,tailwind,sass,typescript,react,next,angular,vite,spring,cs,dotnet,git,githubactions,jenkins,vscode,idea,visualstudio,postman,docker,kubernetes,mysql,postgres,mongodb,figma,linux,ubuntu,kafka" alt="Tech Stack" />
 
   </div>
 
@@ -73,11 +73,11 @@ Beyond coding, I see myself as a **problem solver, innovator, and lifelong learn
 
 </div>
 
-## 📊 GitHub Stats
+## 📊 Top Languages
 
 <div align="center" style="display: flex; justify-content: center; gap: 10px;">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=victormoni&theme=dark" width="35%"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=victormoni&theme=dark" width="35%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=victormoni&theme=dark" width="35%" alt="Top Languages by Repositories"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=victormoni&theme=dark" width="35%" alt="Top Languages by Commits"/>
 </div>
 
 ## 🏆 GitHub Trophies
