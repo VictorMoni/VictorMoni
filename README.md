@@ -73,6 +73,13 @@ Beyond coding, I see myself as a **problem solver, innovator, and lifelong learn
 
 </div>
 
+## 📊 GitHub Stats
+
+<div align="center" style="display: flex; justify-content: center; gap: 10px;">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=victormoni&theme=dark" width="35%"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=victormoni&theme=dark" width="35%"/>
+</div>
+
 ## 🏆 GitHub Trophies
 
   <picture>
