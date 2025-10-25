@@ -76,8 +76,8 @@ Beyond coding, I see myself as a **problem solver, innovator, and lifelong learn
 ## 📖 Top Languages
 
 <div align="center" style="display: flex; justify-content: center; gap: 10px;">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=victormoni&theme=dark" width="300px" alt="Top Languages by Repositories"/>
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=victormoni&theme=dark" width="300px" alt="Top Languages by Commits"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=victormoni&theme=dark" width="250px" alt="Top Languages by Repositories"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=victormoni&theme=dark" width="250px" alt="Top Languages by Commits"/>
 </div>
 
 ## 🏆 GitHub Trophies
