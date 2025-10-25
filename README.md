@@ -49,15 +49,11 @@ Beyond coding, I see myself as a **problem solver, innovator, and lifelong learn
 -  Mentor and collaborate with the dev community
 -  Contribute to **enterprise-level microservices projects**
 
-## 🌱 Contributions Graph
-
-![Status](./profile-3d-contrib/profile-night-green.svg)
-
 ## 💻 Tech Stack
 
   <div align="center">
 
-   <img src="https://skillicons.dev/icons?i=git,vscode,javascript,typescript,html,css,react,next,angular,tailwind,sass,bootstrap,materialui,vite,spring,docker,kubernetes,github,githubactions,figma,postman,linux,heroku,vercel,mysql,postgres,mongodb,kafka,jenkins,idea" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,tailwind,sass,typescript,react,materialui,next,vercel,angular,vite,spring,cs,dotnet,git,github,gitlab,bitbucket,githubactions,jenkins,vscode,idea,visualstudio,eclipse,postman,docker,kubernetes,mysql,postgres,mongodb,md,pnpm,figma,grafana,linux,ubuntu,heroku,kafka,codepen,devto,discord,linkedin,stackoverflow" />
 
   </div>
 
@@ -65,26 +61,16 @@ Beyond coding, I see myself as a **problem solver, innovator, and lifelong learn
 
 <div align="center">
 
-  ![GitHub stats](https://victormoni-github-readme-stats.vercel.app/api?username=victormoni&hide=commits,contribs&show=discussions_started,discussions_answered,prs_merged&theme=dark&show_icons=true&hide_border=true)
+  ![GitHub stats](https://victormoni-github-readme-stats.vercel.app/api?username=VictorMoni&hide=commits,contribs&show=discussions_started,discussions_answered,prs_merged&theme=dark&show_icons=true&hide_border=true)
 
 </div>
-
-
 
 ## 🏆 GitHub Trophies
 
   <picture>
-    <source media="(max-width: 1024px)" srcset="https://github-profile-trophy.vercel.app?username=victormoni&theme=onedark&no-frame=true&row=2&column=4" />
-    <img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app?username=victormoni&theme=onedark&no-frame=true&row=1&column=8" width="100%" />
+    <source media="(max-width: 1024px)" srcset="https://github-profile-trophy.vercel.app?username=VictorMoni&theme=onedark&no-frame=true&row=2&column=4" />
+    <img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app?username=VictorMoni&theme=onedark&no-frame=true&row=1&column=8" width="100%" />
   </picture>
-
-## ⚙️ Desktop Specifications
-
-<div align="center">
-
-  <img src="./assets/card.svg" />
-
-</div>
 
 ## 🛡️ Holopin Badges
 
