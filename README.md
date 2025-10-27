@@ -83,9 +83,11 @@ Beyond coding, I see myself as a **problem solver, innovator, and lifelong learn
 ## 🏆 GitHub Trophies
 
   <picture>
-    <source media="(max-width: 1024px)" srcset="https://github-profile-trophy.vercel.app?username=VictorMoni&theme=onedark&no-frame=true&row=2&column=4" />
-    <img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app?username=VictorMoni&theme=onedark&no-frame=true&row=1&column=8" width="100%" />
+    <source media="(max-width: 1024px)" srcset="https://github-trophies.vercel.app?username=VictorMoni&theme=onedark&no-frame=true&row=2&column=4" />
+    <img alt="GitHub Trophies" src="https://github-trophies.vercel.app?username=VictorMoni&theme=onedark&no-frame=true&row=1&column=8" width="100%" />
   </picture>
+
+https://github-trophies.vercel.app/?username=yourusername
 
 ## 🛡️ Holopin Badges
 
