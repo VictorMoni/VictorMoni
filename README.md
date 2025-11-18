@@ -85,7 +85,7 @@ Beyond coding, I see myself as a **problem solver, innovator, and lifelong learn
 <div align="center">
   <picture>
     <source media="(max-width: 600px)" srcset="https://github-trophies.vercel.app?username=VictorMoni&theme=onedark&no-frame=true&row=2&column=5"/>
-    <img alt="GitHub Trophies" src="https://github-trophies.vercel.app?username=VictorMoni&theme=onedark&no-frame=true&row=2&column=5" width="80%"/>
+    <img alt="GitHub Trophies" src="https://github-trophies.vercel.app?username=VictorMoni&theme=onedark&no-frame=true&row=2&column=5" width="90%"/>
   </picture>
 </div>
 
