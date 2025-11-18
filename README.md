@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi, I'm Victor Moni 👋</h1>
 
-<h3 align="center">Full Stack Developer • Problem Solver • Lifelong Learner</h3>
+<h3 align="center">Software Engineer • Problem Solver • Lifelong Learner</h3>
 
 <div align="center">
 
@@ -24,7 +24,7 @@
 
 ## ✨ About Me
 
-💻 **Full-Stack Developer** <br/>
+💻 **Full Stack Developer** <br/>
 ⚙️ **DevOps Enthusiast** <br/>
 🌐 **Crafting Modern Web Applications**
 
