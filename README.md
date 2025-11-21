@@ -77,7 +77,7 @@ Beyond coding, I see myself as a **problem solver, innovator, and lifelong learn
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorMoni&layout=compact&theme=dark&hide_border=true&hide=html,scss">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VictorMoni&layout=compact&theme=dark&hide_border=true&hide=html,scss,css">
 
 </div>
 
