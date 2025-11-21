@@ -76,7 +76,9 @@ Beyond coding, I see myself as a **problem solver, innovator, and lifelong learn
 ## 📖 Top Languages
 
 <div align="center">
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VictorMoni)
+
 </div>
 
 ## 🏆 GitHub Trophies
