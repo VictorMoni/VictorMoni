@@ -6,7 +6,7 @@
 
 <div align="center">
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Empowering+people+through+code%20%F0%9F%91%A8%F0%9F%92%BB;Building%20amazing%20things%20%F0%9F%9A%80;Crafting%20impactful%20solutions%20%F0%9F%9B%A0%EF%B8%8F" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&pause=1000&color=FFFFFF&center=true&vCenter=true&width=500&lines=Empowering%20people%20through%20code%20%F0%9F%92%A1;Building%20amazing%20things%20%F0%9F%9A%80;Crafting%20impactful%20solutions%20%F0%9F%9B%A0%EF%B8%8F" alt="Typing Animation" />
 
 </div>
 
