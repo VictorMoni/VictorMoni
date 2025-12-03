@@ -71,6 +71,7 @@ Beyond coding, I see myself as a **problem solver, innovator, and lifelong learn
 
 [![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/victormoni)](https://git.io/awesome-stats-card)
 
+![GitHub Profile Stats](https://hoangsonww.github.io/Profile-Readme-Cards/?user=victormoni)
 
 ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=victormoni&theme=dracula)
 
