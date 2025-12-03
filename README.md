@@ -77,7 +77,7 @@ Beyond coding, I see myself as a **problem solver, innovator, and lifelong learn
 
 <div align="center">
 
-![Top Langs](https://awesome-github-stats.azurewebsites.net/user-stats/victormoni?cardType=top-langs)
+![Top Languages](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=victormoni&theme=dracula)
 
 </div>
 
