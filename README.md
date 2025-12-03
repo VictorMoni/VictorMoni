@@ -71,8 +71,6 @@ Beyond coding, I see myself as a **problem solver, innovator, and lifelong learn
 
 ![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=victormoni&theme=dracula)
 
-/* ![GitHub stats](https://github-readme-stats.vercel.app/api?username=VictorMoni&hide=commits,contribs&show=discussions_started,discussions_answered,prs_merged&theme=dark&show_icons=true&hide_border=true) */
-
 </div>
 
 ## 📖 Top Languages
