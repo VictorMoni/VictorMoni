@@ -86,10 +86,10 @@ Beyond coding, I see myself as a **problem solver, innovator, and lifelong learn
 <div align="center" style="width: 100%;">
   <picture style="min-width: 90%; display: block;">
     <source media="(max-width: 600px)"
-            srcset="https://victor-profile-trophy.vercel.app/?username=VictorMoni&theme=onedark&no-frame=true&row=2&column=4"/>
+            srcset="https://victor-profile-trophy.vercel.app/?username=VictorMoni&theme=onedark&no-frame=true&row=2&column=5"/>
     <img alt="GitHub Trophies"
-         src="https://victor-profile-trophy.vercel.app/?username=VictorMoni&theme=onedark&no-frame=true&row=2&column=4"
-         style="min-width: 90%; max-width: 100%; height: auto;"/>
+         src="https://victor-profile-trophy.vercel.app/?username=VictorMoni&theme=onedark&no-frame=true&row=1&column=8"
+         style="min-width: 95%; max-width: 100%; height: auto;"/>
   </picture>
 </div>
 
