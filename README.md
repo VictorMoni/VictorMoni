@@ -53,7 +53,7 @@ Beyond coding, I see myself as a **problem solver, innovator, and lifelong learn
 
   <div align="center">
 
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,tailwind,sass,typescript,python,react,next,angular,vite,cypress,gherkin,spring,java,kotlin,cs,dotnet,markdown,pnpm,git,githubactions,jenkins,vscode,idea,eclipse,visualstudio,pycharm,postman,docker,kubernetes,mysql,postgres,sqlite,mongodb,figma,notion,windows,powershell,linux,ubuntu,mint,kafka,rabbitmq" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,tailwind,sass,typescript,python,react,next,angular,vite,spring,java,kotlin,cs,dotnet,cypress,gherkin,markdown,pnpm,git,githubactions,jenkins,vscode,idea,eclipse,pycharm,visualstudio,postman,docker,kubernetes,mysql,postgres,sqlite,mongodb,figma,notion,windows,powershell,linux,ubuntu,mint,kafka,rabbitmq" alt="Tech Stack" />
 
   </div>
 
