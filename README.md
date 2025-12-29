@@ -104,7 +104,7 @@ Beyond coding, I see myself as a **problem solver, innovator, and lifelong learn
 <div align="center">
 
 [![Google Developers](https://img.shields.io/badge/Google%20Developers-4285F4?style=for-the-badge&logo=google&logoColor=white)](https://developers.google.com/profile/u/victormoni)
-[![Microsoft Learn](https://img.shields.io/badge/Microsoft%20Learn-5E5E5E?style=for-the-badge&logo=microsoft&logoColor=white)](https://learn.microsoft.com/pt-br/users/victormoni/)
+[![Microsoft Learn](https://img.shields.io/badge/Microsoft%20Learn-258FFA?style=for-the-badge&logo=microsoft&logoColor=white)](https://learn.microsoft.com/pt-br/users/victormoni/)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/victormoni)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vabmoni@gmail.com)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5511943936479)
