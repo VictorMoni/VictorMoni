@@ -112,7 +112,7 @@ Beyond coding, I see myself as a **problem solver, innovator, and lifelong learn
 [![Stack Overflow](https://img.shields.io/badge/StackOverflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/9859219)
 [![DEV.to](https://img.shields.io/badge/DEV.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white)](https://dev.to/victormoni)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/vabmoni)
-[![CodePen](https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/victormoni)
+[![CodePen](https://img.shields.io/badge/CodePen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/)
 [![GitLab](https://img.shields.io/badge/GitLab-darkgray?style=for-the-badge&logo=gitlab&logoColor=white)](https://gitlab.com/victormoni)
 [![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?style=for-the-badge&logo=Bluesky&logoColor=white)](https://bsky.app/profile/victormoni.bsky.social)
 [![Jira](https://img.shields.io/badge/-Atlassian-0052CC?style=for-the-badge&logo=atlassian&logoColor=white)](https://victormoni.atlassian.net/)
