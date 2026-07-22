@@ -51,11 +51,13 @@ Beyond coding, I see myself as a **problem solver, innovator, and lifelong learn
 
 ## 💻 Tech Stack
 
-  <div align="center">
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,javascript,tailwind,typescript,react,next,angular,spring,cs,dotnet,git," alt="Tech Stack" />
+</div>
 
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,tailwind,typescript,python,react,next,angular,vite,spring,kotlin,cs,dotnet,git,githubactions,jenkins,idea,vscode,pycharm,visualstudio,postman,docker,kubernetes,mysql,postgres,mongodb,figma,linux,rabbitmq" alt="Tech Stack" />
-
-  </div>
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=githubactions,python,idea,vscode,visualstudio,postman,docker,kubernetes,mysql,postgres,linux,rabbitmq" alt="Tech Stack" />
+</div>
 
 ## 💡Daily.dev Card
 
