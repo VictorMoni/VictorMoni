@@ -41,7 +41,7 @@ Beyond coding, I see myself as a **problem solver, innovator, and lifelong learn
 - Empathy for end-users
 - Clear and transparent communication
 
-## 🎯 2025/2026 Goals
+## 🎯 2026/2027 Goals
 
 - Grow my open-source portfolio
 - Achieve **Cloud certifications**
