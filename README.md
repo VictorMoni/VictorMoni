@@ -68,7 +68,7 @@ Beyond coding, I see myself as a **problem solver, innovator, and lifelong learn
 
 <div align="center">
 
-![GitHub Stats](https://github-stats-extended.vercel.app/api?username=VictorMoni&hide=commits,contribs&show=discussions_started,discussions_answered,prs_merged&theme=dark&show_icons=true&hide_border=true")
+![GitHub Stats](https://github-stats-extended.vercel.app/api?username=VictorMoni&show=discussions_started,discussions_answered,prs_merged&theme=dark&show_icons=true&hide_border=true")
 
 </div>
 
