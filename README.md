@@ -1,6 +1,6 @@
 ![Mario Banner](https://github.com/Unik69420/Unik69420/blob/main/mario%20banner%20for%20github%20profile%20readme.gif?raw=true)
 
-<h1 align="center">Hi, I'm Victor 👋</h1>
+<h1 align="center">Hi, I am Victor 👋</h1>
 
 <h3 align="center">Full Stack Developer • Problem Solver • Lifelong Learner</h3>
 
