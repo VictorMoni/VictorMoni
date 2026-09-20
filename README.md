@@ -49,6 +49,10 @@ Beyond coding, I see myself as a **problem solver, innovator, and lifelong learn
 - Mentor and collaborate with the dev community
 - Contribute to **enterprise-level microservices projects**
 
+## 🛡️ Holopin Badges
+
+[![Holopin badges](https://holopin.me/victormoni)](https://holopin.io/@victormoni)
+
 ## 💻 Tech Stack
 
 <div align="center">
@@ -91,10 +95,6 @@ Beyond coding, I see myself as a **problem solver, innovator, and lifelong learn
          style="min-width: 95%; max-width: 100%; height: auto;"/>
   </picture>
 </div>
-
-## 🛡️ Holopin Badges
-
-[![Holopin badges](https://holopin.me/victormoni)](https://holopin.io/@victormoni)
 
 ## 📱 Connect With Me
 
