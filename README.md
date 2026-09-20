@@ -53,12 +53,11 @@ Beyond coding, I see myself as a **problem solver, innovator, and lifelong learn
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,javascript,tailwind,typescript,react,next,angular,spring,cs,ubuntu,dotnet,git,githubactions,pnpm,windows,python,powershell,idea,vscode,visualstudio,postman,docker,kubernetes,mysql,grafana,markdown,postgres,mint,rabbitmq" alt="Tech Stack" />
+</div>
 
 ## 🛡️ Holopin Badges
 
 [![Holopin badges](https://holopin.me/victormoni)](https://holopin.io/@victormoni)
-
-</div>
 
 ## 💡Daily.dev Card
 
