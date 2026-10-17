@@ -24,26 +24,26 @@
 
 ## ✨ About Me
 
-💻 **Full Stack Developer** passionate about building scalable, secure, and maintainable applications.  
-⚙️ Experienced in **C#, .NET, Angular, React, TypeScript, Java, and SQL**, with a background in enterprise systems, REST APIs, and modern web development.  
-☁️ Postgraduate in **Cloud Computing**, currently expanding my expertise in **Information Security, DevOps, and DevSecOps**.  
-🚀 Focused on continuous improvement, clean architecture, software quality, and delivering solutions that solve real-world problems.  
+- Full Stack Developer passionate about designing and building scalable, secure, and maintainable software solutions.
+- Experienced in C#, .NET, Angular, React, TypeScript, Java, and SQL, working with enterprise applications, RESTful APIs, and modern web technologies.
+- Postgraduate in Cloud Computing and currently pursuing a postgraduate degree in Information Security, with a growing focus on DevOps and DevSecOps.
+- Committed to writing clean code, applying software engineering best practices, and delivering reliable solutions to real-world challenges.
 
-## 🌟 Core Values
+🌟 Core Values
 
-- Quality and scalability over shortcuts
-- Collaboration and knowledge sharing
-- Continuous learning and improvement
-- Empathy for end-users
-- Clear and transparent communication
+- Code Quality: Building clean, maintainable, and scalable solutions.
+- Collaboration: Sharing knowledge and working effectively with others.
+- Continuous Learning: Staying curious and embracing new technologies.
+- User-Centric Thinking: Creating solutions that prioritize user experience.
+- Transparency: Promoting clear communication and constructive feedback.
 
-## 🎯 2026/2027 Goals
+🎯 2026–2027 Goals
 
-- Grow my open-source portfolio
-- Achieve **Cloud certifications**
-- Publish **technical articles** and share insights on GitHub & LinkedIn
-- Mentor and collaborate with the dev community
-- Contribute to **enterprise-level microservices projects**
+- Expand my open-source portfolio with meaningful contributions.
+- Earn industry-recognized Cloud and Security certifications.
+- Publish technical articles and share knowledge on GitHub and LinkedIn.
+- Collaborate with developers and contribute to the open-source community.
+- Deepen my expertise in microservices, cloud-native architectures, and DevSecOps practices.
 
 ## 💻 Tech Stack
 
