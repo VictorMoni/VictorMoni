@@ -24,10 +24,10 @@
 
 ## ✨ About Me
 
-- Full Stack Developer passionate about designing and building scalable, secure, and maintainable software solutions.
-- Experienced in C#, .NET, Angular, React, TypeScript, Java, and SQL, working with enterprise applications, RESTful APIs, and modern web technologies.
-- Postgraduate in Cloud Computing and currently pursuing a postgraduate degree in Information Security, with a growing focus on DevOps and DevSecOps.
-- Committed to writing clean code, applying software engineering best practices, and delivering reliable solutions to real-world challenges.
+- Full Stack Developer focused on building scalable, secure, and maintainable applications.
+- Experienced in C#, .NET, Angular, React, TypeScript, Java, and SQL, with a background in enterprise systems and RESTful APIs.
+- Postgraduate specialization in Cloud Computing, currently studying Information Security, with a focus on DevOps and DevSecOps.
+- Passionate about clean code, software quality, and continuous improvement.
 
 🌟 Core Values
 
