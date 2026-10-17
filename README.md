@@ -24,14 +24,10 @@
 
 ## ✨ About Me
 
-💻 **Software Engineer** <br/>
-⚙️ **DevOps Enthusiast** <br/>
-🌐 **Crafting Modern Web Applications**
-
-I’m passionate about building **scalable, impactful, and user-friendly applications**.
-Beyond coding, I see myself as a **problem solver, innovator, and lifelong learner**.
-
-🚀 *Mission: Delivering modern applications that empower people and businesses.*
+💻 **Full Stack Developer** passionate about building scalable, secure, and maintainable applications.
+⚙️ Experienced in **C#, .NET, Angular, React, TypeScript, Java, and SQL**, with a background in enterprise systems, REST APIs, and modern web development.
+☁️ Postgraduate in **Cloud Computing**, currently expanding my expertise in **Information Security, DevOps, and DevSecOps**.
+🚀 Focused on continuous improvement, clean architecture, software quality, and delivering solutions that solve real-world problems.
 
 ## 🌟 Core Values
 
