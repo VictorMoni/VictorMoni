@@ -48,7 +48,7 @@
 ## 💻 Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,javascript,tailwind,typescript,react,next,angular,spring,cs,ubuntu,dotnet,git,githubactions,pnpm,windows,python,powershell,idea,vscode,visualstudio,postman,docker,kubernetes,mysql,grafana,markdown,postgres,mint,rabbitmq" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=html,javascript,tailwind,typescript,react,next,css,angular,spring,cs,linux,dotnet,git,githubactions,pnpm,windows,python,powershell,idea,vscode,postman,docker,kubernetes,mysql,visualstudio,grafana,markdown,postgres,rider,rabbitmq" alt="Tech Stack" />
 </div>
 
 ## 🛡️ Holopin Badges
