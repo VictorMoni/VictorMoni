@@ -29,7 +29,7 @@
 - Postgraduate specialization in Cloud Computing, currently studying Information Security.
 - Passionate about clean code, software quality, and continuous improvement.
 
-🌟 Core Values
+## 🌟 Core Values
 
 - Code Quality: Building clean, maintainable, and scalable solutions.
 - Collaboration: Sharing knowledge and working effectively with others.
@@ -37,7 +37,7 @@
 - User-Centric Thinking: Creating solutions that prioritize user experience.
 - Transparency: Promoting clear communication and constructive feedback.
 
-🎯 2026–2027 Goals
+## 🎯 2026–2027 Goals
 
 - Expand my open-source portfolio with meaningful contributions.
 - Earn industry-recognized Cloud and Security certifications.
