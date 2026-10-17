@@ -2,8 +2,6 @@
 
 <h1 align="center">Hi, I am Victor 👋</h1>
 
-![GitHub Trophies](https://github-profile-trophy-liard-delta.vercel.app/?username=VictorMoni&theme=onedark)
-
 <h3 align="center">Full Stack Developer • Problem Solver • Lifelong Learner</h3>
 
 <div align="center">
@@ -86,12 +84,13 @@
 <div align="center" style="width: 100%;">
   <picture style="min-width: 90%; display: block;">
     <source media="(max-width: 600px)"
-            srcset="https://github-profile-trophy.vercel.app/?username=VictorMoni&theme=onedark&no-frame=true&row=2&column=4"/>
+            srcset="https://trophy.ryglcloud.net/?username=VictorMoni&theme=onedark&no-frame=true&row=2&column=4"/>
     <img alt="GitHub Trophies"
-         src="https://github-profile-trophy.vercel.app/?username=VictorMoni&theme=onedark&no-frame=true&row=1&column=8"
+         src="https://trophy.ryglcloud.net/?username=VictorMoni&theme=onedark&no-frame=true&row=1&column=8"
          style="min-width: 95%; max-width: 100%; height: auto;"/>
   </picture>
 </div>
+
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=VictorMoni&theme=onedark)
 
