@@ -2,6 +2,8 @@
 
 <h1 align="center">Hi, I am Victor 👋</h1>
 
+![GitHub Trophies](https://github-profile-trophy-liard-delta.vercel.app/?username=VictorMoni&theme=onedark)
+
 <h3 align="center">Full Stack Developer • Problem Solver • Lifelong Learner</h3>
 
 <div align="center">
