@@ -75,7 +75,7 @@
 
 <div align="center">
 
-![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=VictorMoni&theme=dark&layout=compact)
+![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=VictorMoni&theme=dark&layout=compact&hide=html,scss,css)
 
 </div>
 
