@@ -91,9 +91,6 @@
   </picture>
 </div>
 
-
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=VictorMoni&theme=onedark)
-
 ## 📱 Connect With Me
 
 <br/>
