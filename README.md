@@ -26,7 +26,7 @@
 
 - Full Stack Developer focused on building scalable, secure, and maintainable applications.
 - Experienced in C#, .NET, Angular, React, TypeScript, Java, and SQL, with a background in enterprise systems and RESTful APIs.
-- Postgraduate specialization in Cloud Computing, currently studying Information Security, with a focus on DevOps and DevSecOps.
+- Postgraduate specialization in Cloud Computing, currently studying Information Security.
 - Passionate about clean code, software quality, and continuous improvement.
 
 🌟 Core Values
