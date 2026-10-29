@@ -14,8 +14,6 @@
   <img src="./developer.gif" alt="Developer" width="300">
 </div>
 
-
-
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=victormoni&color=blue&style=flat-square" alt="Profile Views" width="160" height="30"/>
 </div>
@@ -37,6 +35,8 @@ working with C#, .NET, Java, Angular, React, TypeScript, and SQL.
 - Exploring microservices and cloud-native architectures.
 - Strengthening application security practices.
 - Contributing to open source and sharing what I learn.
+
+
 
 ## 💻 Tech Stack
 
