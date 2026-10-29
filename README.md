@@ -2,9 +2,9 @@
   <img src="./mario-banner.gif" alt="Mario Banner" />
 </p>
 
-<h1 align="center">Hello, I am Victor 👋</h1>
+<h1 align="center">Hi, I'm Victor Moni 👋</h1>
 
-<h3 align="center">Full Stack Developer • Problem Solver • Lifelong Learner</h3>
+<h3 align="center">Full Stack Developer · .NET & Java · Angular & React</h3>
 
 <div align="center">
 
