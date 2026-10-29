@@ -39,7 +39,7 @@ working with C#, .NET, Java, Angular, React, TypeScript, and SQL.
 ## 💻 Tech Stack
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=html,javascript,tailwind,typescript,react,next,css,angular,spring,rider,cs,linux,dotnet,git,githubactions,pnpm,windows,python,powershell,idea,vscode,postman,docker,kubernetes,mysql,visualstudio,grafana,notion,postgres,markdown" alt="Tech Stack" />
+  <img src="./tech-stack.svg" alt="Tech Stack: C#, .NET, Java, Spring, TypeScript, Angular, React, HTML, CSS, Tailwind, MySQL, PostgreSQL, Git, Docker, Kubernetes and GitHub Actions" />
 </div>
 
 ## 🛡️ Holopin Badges
