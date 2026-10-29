@@ -36,12 +36,6 @@ working with C#, .NET, Java, Angular, React, TypeScript, and SQL.
 - Strengthening application security practices.
 - Contributing to open source and sharing what I learn.
 
-## 🛡️ Holopin Badges
-
-Apache Doris Community Badge
-
-[![Holopin badges](https://holopin.me/victormoni)](https://holopin.io/@victormoni)
-  
 ## 💻 Tech Stack
 
 <div align="center">
@@ -50,6 +44,29 @@ Apache Doris Community Badge
     alt="Tech Stack"
   />
 </div>
+
+## 📢 Feature Projects
+
+<p align="center">
+  <a href="https://github.com/VictorMoni/Portfolio">
+    <img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/VictorMoni/SearchPrice">
+    <img src="https://img.shields.io/badge/SearchPrice-0EA5E9?style=for-the-badge&logo=github&logoColor=white" alt="SearchPrice" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/VictorMoni/ShopEasy">
+    <img src="https://img.shields.io/badge/ShopEasy-10B981?style=for-the-badge&logo=github&logoColor=white" alt="ShopEasy" />
+  </a>
+</p>
+
+
+## 🛡️ Holopin Badges
+
+Apache Doris Community Badge
+
+[![Holopin badges](https://holopin.me/victormoni)](https://holopin.io/@victormoni)
 
 ## 💡Daily.dev Card
 
