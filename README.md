@@ -30,15 +30,6 @@ working with C#, .NET, Java, Angular, React, TypeScript, and SQL.
 - 🧩 Focused on readable code, software quality, and maintainable architecture.
 - 🌱 Deepening my knowledge of cloud-native applications and DevSecOps.
 - 🤝 Interested in collaboration, knowledge sharing, and open-source contributions.
-  
-## 👔 Technologies
-
-| Area | Technologies |
-| --- | --- |
-| Backend | C#, .NET, Java, Spring Boot, REST APIs |
-| Frontend | TypeScript, JavaScript, Angular, React, Next.js |
-| Databases | SQL, MySQL, PostgreSQL |
-| Infrastructure & tools | Docker, Kubernetes, Git, GitHub Actions, Linux |
 
 ## 🎯 Current focus
 
