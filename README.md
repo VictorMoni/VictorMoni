@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./mario-banner.gif" alt="Mario Banner" width="600" />
+  <img src="./mario-banner.gif" alt="Mario Banner" />
 </p>
 
 <h1 align="center">Hello, I am Victor 👋</h1>
