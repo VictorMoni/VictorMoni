@@ -35,6 +35,12 @@ working with C#, .NET, Java, Angular, React, TypeScript, and SQL.
 - Exploring microservices and cloud-native architectures.
 - Strengthening application security practices.
 - Contributing to open source and sharing what I learn.
+
+## 🛡️ Holopin Badges
+
+Apache Doris Community Badge
+
+[![Holopin badges](https://holopin.me/victormoni)](https://holopin.io/@victormoni)
   
 ## 💻 Tech Stack
 
@@ -44,12 +50,6 @@ working with C#, .NET, Java, Angular, React, TypeScript, and SQL.
     alt="Tech Stack"
   />
 </div>
-
-## 🛡️ Holopin Badges
-
-Apache Doris Community Badge
-
-[![Holopin badges](https://holopin.me/victormoni)](https://holopin.io/@victormoni)
 
 ## 💡Daily.dev Card
 
