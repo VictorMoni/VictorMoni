@@ -11,6 +11,10 @@
 </div>
 
 <div align="center">
+  <img src="./developer.gif" alt="Developer" width="300" />
+</div>
+
+<div align="center">
   <img src="https://komarev.com/ghpvc/?username=victormoni&color=blue&style=flat-square" alt="Profile Views" width="160" height="30"/>
 </div>
 
