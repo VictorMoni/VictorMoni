@@ -53,6 +53,8 @@
 
 ## 🛡️ Holopin Badges
 
+Apache Doris Community Badge
+
 [![Holopin badges](https://holopin.me/victormoni)](https://holopin.io/@victormoni)
 
 ## 💡Daily.dev Card
