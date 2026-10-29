@@ -60,13 +60,13 @@ Apache Doris Community Badge
 
 <div align="center">
   <img
-    src="https://github-stats-extended.vercel.app/api?username=VictorMoni&show_icons=true&theme=dark&hide_rank=true"
-    alt="GitHub Stats"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=VictorMoni&theme=dark&layout=compact&hide=html,scss,css"
+    alt="Most Used Languages"
     height="165"
   />
   <img
-    src="https://github-stats-extended.vercel.app/api/top-langs/?username=VictorMoni&theme=dark&layout=compact&hide=html,scss,css"
-    alt="Most Used Languages"
+    src="https://github-stats-extended.vercel.app/api?username=VictorMoni&show_icons=true&theme=dark&hide_rank=true"
+    alt="GitHub Stats"
     height="165"
   />
 </div>
