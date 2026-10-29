@@ -35,9 +35,7 @@ working with C#, .NET, Java, Angular, React, TypeScript, and SQL.
 - Exploring microservices and cloud-native architectures.
 - Strengthening application security practices.
 - Contributing to open source and sharing what I learn.
-
-
-
+  
 ## 💻 Tech Stack
 
 <div align="center">
@@ -58,20 +56,19 @@ Apache Doris Community Badge
 
 </div>
 
-## 📊 GitHub Stats
+## 📊 GitHub Overview
 
 <div align="center">
-
-![GitHub Stats](https://github-stats-extended.vercel.app/api?username=VictorMoni&show=discussions_started,discussions_answered,prs_merged&theme=dark&show_icons=true&hide_border=true")
-
-</div>
-
-## 📖 Top Languages
-
-<div align="center">
-
-![Top Languages](https://github-stats-extended.vercel.app/api/top-langs/?username=VictorMoni&theme=dark&layout=compact&hide=html,scss,css)
-
+  <img
+    src="https://github-stats-extended.vercel.app/api?username=VictorMoni&show_icons=true&theme=dark"
+    alt="GitHub Stats"
+    height="165"
+  />
+  <img
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=VictorMoni&theme=dark&layout=compact&hide=html,scss,css"
+    alt="Most Used Languages"
+    height="165"
+  />
 </div>
 
 ## 🏆 GitHub Trophies
