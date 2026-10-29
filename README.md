@@ -7,45 +7,45 @@
 <h3 align="center">Full Stack Developer · .NET & Java · Angular & React</h3>
 
 <div align="center">
-
-  <img src="./typing-animation.svg" alt="Typing Animation" width="500" />
-
+  <img src="./typing-animation.svg" alt="Typing Animation" width="400" />
 </div>
 
 <div align="center">
-
   <img src="./developer.gif" alt="Developer" width="300">
-
 </div>
+
+
 
 <div align="center">
-
   <img src="https://komarev.com/ghpvc/?username=victormoni&color=blue&style=flat-square" alt="Profile Views" width="160" height="30"/>
-
 </div>
 
-## ✨ About Me
+## 🌟 About Me
 
-- Full Stack Developer focused on building scalable, secure, and maintainable applications.
-- Experienced in C#, .NET, Angular, React, TypeScript, Java, and SQL, with a background in enterprise systems and RESTful APIs.
-- Postgraduate specialization in Cloud Computing, currently studying Information Security.
-- Passionate about clean code, software quality, and continuous improvement.
+I'm a Full Stack Developer with experience in enterprise systems and RESTful APIs,
+working with C#, .NET, Java, Angular, React, TypeScript, and SQL.
 
-## 🌟 Core Values
+- 🎓 Postgraduate specialization in Cloud Computing.
+- 🔐 Currently studying Information Security.
+- 🧩 Focused on readable code, software quality, and maintainable architecture.
+- 🌱 Deepening my knowledge of cloud-native applications and DevSecOps.
+- 🤝 Interested in collaboration, knowledge sharing, and open-source contributions.
+  
+## 👔 Technologies
 
-- Code Quality: Building clean, maintainable, and scalable solutions.
-- Collaboration: Sharing knowledge and working effectively with others.
-- Continuous Learning: Staying curious and embracing new technologies.
-- User-Centric Thinking: Creating solutions that prioritize user experience.
-- Transparency: Promoting clear communication and constructive feedback.
+| Area | Technologies |
+| --- | --- |
+| Backend | C#, .NET, Java, Spring Boot, REST APIs |
+| Frontend | TypeScript, JavaScript, Angular, React, Next.js |
+| Databases | SQL, MySQL, PostgreSQL |
+| Infrastructure & tools | Docker, Kubernetes, Git, GitHub Actions, Linux |
 
-## 🎯 2026–2027 Goals
+## 🎯 Current focus
 
-- Expand my open-source portfolio with meaningful contributions.
-- Earn industry-recognized Cloud and Security certifications.
-- Publish technical articles and share knowledge on GitHub and LinkedIn.
-- Collaborate with developers and contribute to the open-source community.
-- Deepen my expertise in microservices, cloud-native architectures, and DevSecOps practices.
+- Building and documenting portfolio projects.
+- Exploring microservices and cloud-native architectures.
+- Strengthening application security practices.
+- Contributing to open source and sharing what I learn.
 
 ## 💻 Tech Stack
 
@@ -131,9 +131,7 @@ Apache Doris Community Badge
 ## ☕ Support My Work
 
 <div align="center">
-
-<a href="https://www.buymeacoffee.com/victormoni" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
-
+  <a href="https://www.buymeacoffee.com/victormoni" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
 </div>
 
 <div align="center">
