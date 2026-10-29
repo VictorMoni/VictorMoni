@@ -1,10 +1,4 @@
-<p align="center">
-  <img
-    src="https://github.com/Unik69420/Unik69420/blob/main/mario%20banner%20for%20github%20profile%20readme.gif?raw=true"
-    alt="Mario Banner"
-    width="600"
-  />
-</p>
+![Mario Banner](https://github.com/Unik69420/Unik69420/blob/main/mario%20banner%20for%20github%20profile%20readme.gif?raw=true)
 
 <h1 align="center">Hello, I am Victor 👋</h1>
 
