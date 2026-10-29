@@ -18,6 +18,16 @@
   <img src="https://komarev.com/ghpvc/?username=victormoni&color=blue&style=flat-square" alt="Profile Views" width="160" height="30"/>
 </div>
 
+</br>
+
+<p align="center">
+  <a href="https://github.com/VictorMoni/Portfolio"><img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio" /></a>
+  &nbsp;
+  <a href="https://github.com/VictorMoni/SearchPrice"><img src="https://img.shields.io/badge/SearchPrice-0EA5E9?style=for-the-badge&logo=github&logoColor=white" alt="SearchPrice" /></a>
+  &nbsp;
+  <a href="https://github.com/VictorMoni/ShopEasy"><img src="https://img.shields.io/badge/ShopEasy-10B981?style=for-the-badge&logo=github&logoColor=white" alt="ShopEasy" /></a>
+</p>
+
 ## 🌟 About Me
 
 I'm a Full Stack Developer with experience in enterprise systems and RESTful APIs,
@@ -45,21 +55,7 @@ working with C#, .NET, Java, Angular, React, TypeScript, and SQL.
   />
 </div>
 
-## 📢 Feature Projects
 
-<p align="center">
-  <a href="https://github.com/VictorMoni/Portfolio">
-    <img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/VictorMoni/SearchPrice">
-    <img src="https://img.shields.io/badge/SearchPrice-0EA5E9?style=for-the-badge&logo=github&logoColor=white" alt="SearchPrice" />
-  </a>
-  &nbsp;
-  <a href="https://github.com/VictorMoni/ShopEasy">
-    <img src="https://img.shields.io/badge/ShopEasy-10B981?style=for-the-badge&logo=github&logoColor=white" alt="ShopEasy" />
-  </a>
-</p>
 
 
 ## 🛡️ Holopin Badges
