@@ -60,7 +60,7 @@ Apache Doris Community Badge
 
 <div align="center">
   <img
-    src="https://github-stats-extended.vercel.app/api?username=VictorMoni&show_icons=true&theme=dark"
+    src="https://github-stats-extended.vercel.app/api?username=VictorMoni&show_icons=true&theme=dark&hide_rank=true"
     alt="GitHub Stats"
     height="165"
   />
