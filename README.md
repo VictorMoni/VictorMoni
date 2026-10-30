@@ -23,7 +23,7 @@
 <p align="center">
   <a href="https://github.com/VictorMoni/Portfolio"><img src="https://img.shields.io/badge/Portfolio-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio" /></a>
   &nbsp;
-  <a href="https://github.com/VictorMoni/SearchPrice"><img src="https://img.shields.io/badge/SearchPrice-0EA5E9?style=for-the-badge&logo=github&logoColor=white" alt="SearchPrice" /></a>
+  <a href="https://github.com/VictorMoni/TaskyHub"><img src="https://img.shields.io/badge/TaskyHub-0EA5E9?style=for-the-badge&logo=github&logoColor=white" alt="TaskyHub" /></a>
   &nbsp;
   <a href="https://github.com/VictorMoni/ShopEasy"><img src="https://img.shields.io/badge/ShopEasy-10B981?style=for-the-badge&logo=github&logoColor=white" alt="ShopEasy" /></a>
 </p>
