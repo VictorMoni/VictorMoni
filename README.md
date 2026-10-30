@@ -50,7 +50,7 @@ working with C#, .NET, Java, Angular, React, TypeScript, and SQL.
 
 <div align="center">
   <img
-    src="https://skillicons.dev/icons?i=cs,dotnet,java,spring,typescript,angular,react,next,tailwind,mysql,postgres,git,docker,kubernetes,githubactions&amp;perline=16"
+    src="https://skillicons.dev/icons?i=cs,dotnet,java,spring,typescript,angular,react,next,postgres,git,docker,kubernetes,githubactions&amp"
     alt="Tech Stack"
   />
 </div>
