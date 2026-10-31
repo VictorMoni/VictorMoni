@@ -55,9 +55,6 @@ working with C#, .NET, Java, Angular, React, TypeScript, and SQL.
   />
 </div>
 
-
-
-
 ## 🛡️ Holopin Badges
 
 Apache Doris Community Badge
