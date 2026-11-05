@@ -23,6 +23,8 @@
 <p align="center">
   <a href="https://github.com/VictorMoni/sao-paulo-in-layers"><img src="https://img.shields.io/badge/S%C3%A3o%20Paulo%20in%20Layers-8B5CF6?style=for-the-badge&logo=github&logoColor=white" alt="São Paulo in Layers" /></a>
   &nbsp;
+  <a href="https://github.com/VictorMoni/repolume"><img src="https://img.shields.io/badge/Repolume-76A85B?style=for-the-badge&logo=github&logoColor=white" alt="Repolume" /></a>
+  &nbsp;
   <a href="https://github.com/VictorMoni/media-lab-cloudinary"><img src="https://img.shields.io/badge/Media%20Lab-F97316?style=for-the-badge&logo=github&logoColor=white" alt="Media Lab" /></a>
   &nbsp;
   <a href="https://github.com/VictorMoni/TaskyHub"><img src="https://img.shields.io/badge/TaskyHub-0EA5E9?style=for-the-badge&logo=github&logoColor=white" alt="TaskyHub" /></a>
