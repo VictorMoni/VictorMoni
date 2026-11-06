@@ -53,15 +53,12 @@ working with C#, .NET, Java, Angular, React, TypeScript, and SQL.
 ## 💻 Tech Stack
 
 <div align="center">
-  <img
-    src="https://skillicons.dev/icons?i=cs,dotnet,java,spring,angular,react,next,postgres,git,docker,kubernetes,githubactions&amp"
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,java,spring,angular,react,next,postgres,git,docker,kubernetes,githubactions&amp"
     alt="Tech Stack"
   />
 </div>
 
 ## 🛡️ Holopin Badges
-
-Apache Doris Community Badge
 
 [![Holopin badges](https://holopin.me/victormoni)](https://holopin.io/@victormoni)
 
@@ -77,7 +74,7 @@ Apache Doris Community Badge
 
 <div align="center">
   <img
-    src="https://github-stats-extended.vercel.app/api/top-langs/?username=VictorMoni&theme=dark&layout=compact&hide=html,scss,css"
+ src="https://github-stats-extended.vercel.app/api/top-langs/?username=VictorMoni&theme=dark&layout=compact&hide=html,scss,css"
     alt="Most Used Languages"
     height="165"
   />
