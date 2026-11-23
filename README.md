@@ -50,7 +50,7 @@ working with C#, .NET, Java, Angular, React, TypeScript, and SQL.
 - Strengthening application security practices.
 - Contributing to open source and sharing what I learn.
 
-## 🛡️ Open Source & Community
+## 🛡️ Contributions
 
 [![Holopin badges](https://holopin.me/victormoni)](https://holopin.io/@victormoni)
 
